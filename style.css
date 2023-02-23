@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    marging:0px;
+   }
+   button{
+        margin:32px 64px;
+        padding: 20PX 40px;
+        font-weight:bold ;
+        background-color: rgb(31, 31, 59);
+        border-radius:10px ;
+      }
+      div{
+        position:center;
+        float:right;
+        background-color: blueviolet;
+        background-size: 100px 80px;
+       
+       }
+   .heading{
+    color: rgb(39, 52, 167);
+    height: 42px;
+    font: 100px;
+    }
+    body{
+      background-color: blueviolet;
+    }
+    

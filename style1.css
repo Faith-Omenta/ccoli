@@ -1,0 +1,19 @@
+#heading{
+    font-weight: bold;
+    color: blue;
+
+}
+form{
+    color: rgb(90, 85, 95);
+
+}
+button{
+    margin:32px 64px;
+    padding: 18PX 24px;
+    font-weight:bold ;
+    background-color: rgb(204, 0, 255);
+    border-radius:10px ;
+  }
+body{
+    background-color: brown;
+}

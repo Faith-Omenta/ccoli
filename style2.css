@@ -1,0 +1,25 @@
+*{padding: o;
+    margin: o;
+ }
+ table{
+    margin:30px auto;
+    height:800px;
+    width:700px;
+    border: 20px;
+    border-collapse: collapse;
+ }
+ body{
+width: 800px;
+background-color: purple;
+}
+button{
+margin:32px 64px;
+padding: 18PX 24px;
+font-weight:bold ;
+background-color: blue;
+border-radius:10px ;
+}
+th,
+td{
+border: 2px solid blue; 
+  }
